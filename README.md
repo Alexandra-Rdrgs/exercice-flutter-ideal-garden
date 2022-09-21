@@ -1,6 +1,6 @@
 # exercice_drawer
 
-Exercice to pratice the Drawer.
+Exercice to pratice the Drawer, and Flutter.
 
 ## Getting Started
 
