@@ -30,7 +30,7 @@ class HomeView extends StatelessWidget {
                 padding:
                     const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
                 child: const Text(
-                  "Acceuil",
+                  "Accueil",
                   style: TextStyle(
                     color: Colors.black54,
                     fontSize: 30,

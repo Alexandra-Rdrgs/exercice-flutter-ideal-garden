@@ -12,7 +12,7 @@ class AppController extends StatefulWidget {
 class AppState extends State<AppController> {
   int index = 0;
   List<ItemMenu> items = [
-    ItemMenu(name: "Acceuil", body: HomeView()),
+    ItemMenu(name: "Accueil", body: HomeView()),
     ItemMenu(name: "Realisations", body: RealView())
   ];
 
